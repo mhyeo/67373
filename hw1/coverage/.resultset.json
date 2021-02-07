@@ -34,26 +34,30 @@
   },
   "Unit Tests": {
     "coverage": {
-      "C:/Users/noahm/onedrive/documents/2020-2021/67373/hw1/app/models/task.rb": [
+      "C:/Users/noahm/onedrive/documents/2020-2021/67373/hw1/app/models/chore.rb": [
         1,
         1,
         1,
         null,
-        1,
         1,
         null,
         3,
         2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
         null,
         null
       ],
       "C:/Users/noahm/onedrive/documents/2020-2021/67373/hw1/app/models/application_record.rb": [
-        1,
-        1,
-        null
-      ],
-      "C:/Users/noahm/onedrive/documents/2020-2021/67373/hw1/app/models/chore.rb": [
-        1,
         1,
         1,
         null
@@ -70,6 +74,19 @@
         null,
         1,
         0,
+        null,
+        null
+      ],
+      "C:/Users/noahm/onedrive/documents/2020-2021/67373/hw1/app/models/task.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
         null,
         null
       ],
@@ -325,6 +342,6 @@
         0
       ]
     },
-    "timestamp": 1612731797
+    "timestamp": 1612733669
   }
 }
